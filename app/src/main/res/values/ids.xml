@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextTypeContrat" type="id" />
+    <item name="editTextDescription" type="id" />
+    <item name="spinnerVille" type="id" />
+    <item name="spinnerSecteur" type="id" />
+    <item name="spinnerCategorie" type="id" />
+</resources>
